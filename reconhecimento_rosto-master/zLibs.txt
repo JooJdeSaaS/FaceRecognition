@@ -1,0 +1,4 @@
+dlib (windows https://visualstudio.microsoft.com/visual-cpp-build-tools/)
+pip install face_recognition
+pip install numpy
+pip install opencv-python
